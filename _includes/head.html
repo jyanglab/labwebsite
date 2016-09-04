@@ -9,4 +9,15 @@
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
+    <!-- my edits -->
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="{{ "/assets/favicon.ico" | prepend: site.baseurl }}" />
+    <!-- Modernizr -->
+    <script src="{{ "/assets/js/modernizr.custom.15390.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+
+    {% if site.google_analytics %} {% include google_analytics.html %} {% endif %}
+
+
+
 </head>
