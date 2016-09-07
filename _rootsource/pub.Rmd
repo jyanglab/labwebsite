@@ -8,56 +8,61 @@ permalink: /pub/
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, results="asis"}
 library(methods)
 library(scholar)
 bob <- get_profile("2CiKnzkAAAAJ")
-paste("{\\small H-Index ", bob$h_index, " (", bob$total_cites, " citations as of ", date(), ")}",sep="")
-bob<-get_publications("2CiKnzkAAAAJ")
-write.table(file="./tempcites.txt", data.frame(bob$cid,bob$cites), row.names=F, quote=F, col.names=F)
+cat(paste0("__[H-Index](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__ ", bob$h_index, " (", bob$total_cites, " citations as of ", date(), ")  "))
+
+#bob <- get_publications("2CiKnzkAAAAJ")
+#cat(data.frame(bob$cid,bob$cites))
+#write.table(bob, "data/gs_cites.txt", sep="\t", row.names=FALSE, quote=FALSE)
 ```
+
+-----------------------
 
 ```{r, eval=FALSE, echo=FALSE}
 source("data/googleCite.r")
 out = googleCite("https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ",pdfname="figure/wordcloud.pdf")
 ```
 
-```{r, eval=FALSE, echo=FALSE}
+```{r, eval=FALSE, echo=FALSE, results='hide'}
 library(RefManageR)
-b <- ReadBib("data/citations_2016.bib", check=FALSE)
+#b <- ReadBib("data/citations_2016.bib", check=FALSE)
 
-b2 <- ReadGS(scholar.id="2CiKnzkAAAAJ", check.entries = FALSE)
-print(b2, .opts= list(bib.style = "authoryear"))
+bib <- ReadGS(scholar.id="2CiKnzkAAAAJ", check.entries = FALSE, sort.by.date = TRUE)
+print(bib, .opts= list(bib.style = "numeric", max.names=99))
+
+bib <- ReadBib("data/citations_2016.bib", check = "error")
+print(bib, .opts= list(style ="citation", bib.style = "authoryear", max.names=99))
+
+out <- data.frame(print(bib, .opts= list(style ="citation", bib.style = "numeric", max.names=199)))
+
+oldfile <- read.delim("data/gs_pub.txt")  
+
+PrintBibliography(bib)
+
+write.table(out, "data/gs_pub.txt", sep="\t", quote=FALSE)
+
+}
+
 ```
 
-Koesterke, L, D. Stanzione, M. Vaughn, et al. (2011). “An efficient and
-scalable implementation of SNP-pair interaction testing for genetic
-association studies”. In: _Parallel and Distributed Processing
-Workshops and Phd Forum (IPDPSW)_ 2011.
+\documentclass[11pt]{article}  
 
-Leiboff, S, X. Li, H. C. Hu, et al. (2015). “Genetic control of
-morphometric diversity in the maize shoot apical meristem”. In: _Nature
-communications_ 6.
+\usepackage[backend=bibtex]{biblatex}
+\bibliography{data/citations_2016.bib}
+% or use \addbibresource{jabrefbibtest.bib}
 
-Liu, S, K. Ying, C. T. Yeh, et al. (2012). “Changes in genome content
-generated via segregation of non‐allelic homologs”. In: _The Plant
-Journal_ 72.3, pp. 390-399.
+\begin{document}
 
-Sosso, D., D. Luo, Q. B. Li, et al. (2015). _Seed filling in
-domesticated maize and rice depends on SWEET-mediated hexose
-transport_. Tech. rep. Nature genetics.
+Here is one citation \cite{yang2015extreme} and
+here is a second \cite{koesterke2011efficient}.
 
-Yang, J, H. Jiang, C. T. Yeh, et al. (2015). “Extreme‐phenotype
-genome‐wide association study (XP‐GWAS): a method for identifying
-trait‐associated variants by sequencing pools of individuals selected
-from a diversity panel”. In: _The Plant Journal_ 84.3, pp. 587-596.
+Now do full References show below?
 
+\printbibliography   
+\end{document}
 
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
 
