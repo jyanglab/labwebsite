@@ -1,5 +1,15 @@
 # Changes
 
+## hosted by github with Jekyll and servr
+
+## publication management
+```
+install.packages("devtools")
+devtools::install_github("romainfrancois/bibtex")
+devtools::install_github("mwmclean/RefManageR")
+```
+[manual](https://github.com/mwmclean/RefManageR/blob/master/vignettes/RefManageR.pdf)
+
 ## added new tab:
 Simply add a new markdown file
 
