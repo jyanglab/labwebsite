@@ -28,7 +28,7 @@ if(file.exists(file)){
 
 -----------------------------------
 
-#### Preprints
+### Preprints
 
 ```{r, echo=FALSE, results="asis"}
 #pid <- bob[bob$pubid=="u-x6o8ySG0sC",]
@@ -45,7 +45,7 @@ cat(paste0(
 
 -----------------------------------
 
-#### 2015
+### 2015
 
 
 ```{r, echo=FALSE, results="asis"}
@@ -86,7 +86,7 @@ cat(paste0(
 
 ------------------------------
 
-#### 2014 and Before 
+### 2014 and Before 
 
 ```{r, echo=FALSE, results="asis"}
 pid <- bob[bob$pubid=="2osOgNQ5qMEC",]
@@ -113,7 +113,7 @@ cat(paste0(
 
 --------------------------
 
-#### Patent Applications
+### Patent Applications
 
 P. S. Schnable, A. OTT, __J. Yang__, __Intercrossed ex-PVP lines__.  *2014. PENDING.*
 
