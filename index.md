@@ -2,66 +2,9 @@
 layout: default
 ---
 
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
+Our resesarch focuses on bridging the gap between genotypes and phenotypes. At a broader scale, I am keen to integrate various large-scale biological data sets such as phenomics, genomics, transcriptomics, methylomics data and functional annotations to boost the power of **Genome-wide Association Study** and **Genomic Selection**.
 
------------------------
+Our lab's major interests include (1) using **quantitative and population genetics** approaches to dissect the genetic architecture of  agronomically important traits;
+(2) exploring the **genetic basis** of heterosis and predicting hybrid performance by incorporating biological annotation information;
+and (3) modeling complex phentoypes, such as molecular phenotypes, time series phenotypes, or phenotypes obtained via image analyses.
 
-## Quantitative Genetics
-
-<p><img src="figure/Picture1.png" height="200px" width="200px" alt="Smiley face" align="left" />
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-</p>
-
-
-
------------------------
-
-## Statistical Genomics
-
-<img src="figure/Picture1.png" height="200px" width="200px" align="right">
-
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-
-
-------------------
-
-## Phenotyping
-This is another text.
-
-<img src="figure/Picture1.png" height="200px" width="200px" alt="Smiley face" align="left" />
-Something else.
