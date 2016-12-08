@@ -6,7 +6,7 @@ permalink: /pub/
 
 
 
-__[H-Index](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__ [ __4__ ] (33 citations as of Tue Nov  8 17:13:38 2016)  
+__[H-Index](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__ [ __5__ ] (37 citations as of Thu Dec  8 13:14:54 2016)  
 
 -----------------------------------
 
@@ -21,13 +21,13 @@ __J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMull
 
 
 __J. Yang__, H. Jiang, C. T. Yeh, J. Yu, J. A. Jeddeloh, D. Nettleton, and P. S. Schnable, __Extreme-phenotype genome-wide association study (XP-GWAS): A method for identifying trait-associated variants by sequencing pools of individuals selected from a diversity panel__, *Plant J., vol. 84, no. 3, pp. 587–596, 2015.*  
-> [Abstract](http://doi.wiley.com/10.1111/tpj.13029) | [PDF](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13029/epdf) | 10.1111/tpj.13029 | [cited 7](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727081806497409997&as_sdt=5)
+> [Abstract](http://doi.wiley.com/10.1111/tpj.13029) | [PDF](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13029/epdf) | 10.1111/tpj.13029 | [cited 8](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727081806497409997&as_sdt=5)
 
 D. Sosso, D. Luo, Q. Li, J. Sasse, __J. Yang__, G. Gendrot, M. Suzuki, K. E. Koch, D. R. McCarty, P. S. Chourey, P. M. Rogowsky, J. Ross-Ibarra, B. Yang, and W. B. Frommer, __Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport__, *Nat. Genet., vol. 47, no. 12, pp. 1489–1493, 2015.*  
-> [Abstract](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html) | [PDF](http://www.nature.com/ng/journal/v47/n12/pdf/ng.3422.pdf) | 10.1038/ng.3422 | [cited 8](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
+> [Abstract](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html) | [PDF](http://www.nature.com/ng/journal/v47/n12/pdf/ng.3422.pdf) | 10.1038/ng.3422 | [cited 9](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
 
 S. Leiboff, X. Li, H.-C. Hu, N. Todt, __J. Yang__, X. Li, X. Yu, G. J. Muehlbauer, M. C. P. Timmermans, J. Yu, P. S. Schnable, and M. J. Scanlon, __Genetic control of morphometric diversity in the maize shoot apical meristem__, *Nat. Commun., vol. 6, p. 8974, 2015.*  
-> [Abstract](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html) | [PDF](http://www.nature.com/ncomms/2015/151120/ncomms9974/pdf/ncomms9974.pdf) | 10.1038/ncomms9974 | [cited 3](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)
+> [Abstract](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html) | [PDF](http://www.nature.com/ncomms/2015/151120/ncomms9974/pdf/ncomms9974.pdf) | 10.1038/ncomms9974 | [cited 5](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)
 
 ------------------------------
 
