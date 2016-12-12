@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Maize Genome Resources"
+permalink: /news/
 categories: [resource, tutorial]
 tags: [genomics]
 ---
