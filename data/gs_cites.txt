@@ -1,0 +1,6 @@
+title	author	journal	number	cites	year	cid	pubid
+Changes in genome content generated via segregation of non‐allelic homologs	S Liu, K Ying, CT Yeh, J Yang, R Swanson‐Wagner, W Wu, T Richmond, ...	The Plant Journal	72 (3), 390-399	8	2012	12628450597487851072	2osOgNQ5qMEC
+Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport	D Sosso, D Luo, QB Li, J Sasse, J Yang, G Gendrot, M Suzuki, KE Koch, ...	Nature genetics		7	2015	14940779386657346302	UeHWp8X0CEIC
+An efficient and scalable implementation of SNP-pair interaction testing for genetic association studies	L Koesterke, D Stanzione, M Vaughn, SM Welch, W Kusnierczyk, J Yang, ...	Parallel and Distributed Processing Workshops and Phd Forum (IPDPSW)	2011 ...	6	2011	15468679869872245348	9yKSN-GCB0IC
+Extreme‐phenotype genome‐wide association study (XP‐GWAS): a method for identifying trait‐associated variants by sequencing pools of individuals selected from a diversity panel	J Yang, H Jiang, CT Yeh, J Yu, JA Jeddeloh, D Nettleton, PS Schnable	The Plant Journal	84 (3), 587-596	5	2015	4727081806497409997	u-x6o8ySG0sC
+Genetic control of morphometric diversity in the maize shoot apical meristem	S Leiboff, X Li, HC Hu, N Todt, J Yang, X Li, X Yu, GJ Muehlbauer, ...	Nature communications	6	3	2015	15673008105270802385	IjCSPb-OGe4C

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: News
+title: Lab Doc
 permalink: /news/
 ---
 

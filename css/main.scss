@@ -8,9 +8,9 @@
 // @import url(http://fonts.googleapis.com/css?family=Galdeano);
 @import url(https://fonts.googleapis.com/css?family=Galdeano);
 // Our variables
-// $base-font-family: "Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;
-$base-font-family: 'Galdeano', sans-serif;
-$base-font-size:   20px;
+$base-font-family: "Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;
+// $base-font-family: 'Galdeano', sans-serif;
+$base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
@@ -18,7 +18,8 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #ffffff;
-$brand-color:      #088da5;
+$brand-color:      #ffc0cb;
+$hl-color:         #468499;
 
 $grey-color:       #666666;
 $grey-color-light: lighten($grey-color, 40%);

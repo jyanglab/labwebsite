@@ -2,58 +2,9 @@
 layout: default
 ---
 
-I am a father, a plant geneticist, and a data hacker. I am highly supportive for open science and reproducible research. As the Big Data explosion, especially the next generation sequencing (NGS) data in genomics area, collaboration across multiple disciplines to solve a single problem become vital importance. If you are interested in genetics, statistics, machine learning (ML), parallel computing or data mining, then I am your friend.
+Our resesarch focuses on bridging the gap between genotypes and phenotypes. At a broader scale, we are keen to integrate various large-scale biological data sets such as phenomics, genomics, transcriptomics, methylomics data and functional annotations to boost the power of **Genome-wide Association Study** and **Genomic Selection**.
 
------------------------
-
-## Quantitative Genetics
-<p><img src="figure/Picture1.png" height="200px" width="200px" alt="Smiley face" align="left" />
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-</p>
------------------------
-
-## Statistical Genomics
-
-<img src="figure/Picture1.png" height="200px" width="200px" align="right">
-
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-This is some text. This is some text.
-
-
-------------------
-
-## Phenotyping
-This is another text.
-
-<img src="figure/Picture1.png" height="200px" width="200px" alt="Smiley face" align="left" />
-Something else.
+Our lab's major interests include (1) using **quantitative and population genetics** approaches to dissect the genetic architecture of  agronomically important traits;
+(2) exploring the **genetic basis of heterosis** and predicting hybrid performance by incorporating biological annotation information;
+and (3) **collecting and modeling complex phentoypes**, such as molecular phenotypes, time series phenotypes, or phenotypes obtained via image analyses.
 
