@@ -6,25 +6,14 @@ permalink: /pub/
 
 
 
-__[H-Index](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__ [ __5__ ] (37 citations as of Thu Dec  8 13:14:54 2016)  
 
-<<<<<<< HEAD
 {% highlight text %}
 ## Warning: package 'scholar' was built under R version 3.2.2
 {% endhighlight %}
 
+__[H-Index](https://scholar.google.com/citations?hl=en&user=2CiKnzkAAAAJ)__ [ __5__ ] (56 citations as of Fri Apr 21 11:11:08 2017)  
 
-
-{% highlight text %}
-## [1] "{\\small H-Index 5 (56 citations as of Fri Apr 21 10:52:10 2017)}"
-{% endhighlight %}
-
-
-
-
-=======
 -----------------------------------
->>>>>>> f367e1b7cb4f6617fe7fbb9349a1980861df9406
 
 ### Preprints
 
@@ -37,20 +26,20 @@ __J. Yang__, S. Mezmouk, A. Baumgarten, E. S. Buckler, K. E. Guill, M. D. McMull
 
 
 __J. Yang__, H. Jiang, C. T. Yeh, J. Yu, J. A. Jeddeloh, D. Nettleton, and P. S. Schnable, __Extreme-phenotype genome-wide association study (XP-GWAS): A method for identifying trait-associated variants by sequencing pools of individuals selected from a diversity panel__, *Plant J., vol. 84, no. 3, pp. 587–596, 2015.*  
-> [Abstract](http://doi.wiley.com/10.1111/tpj.13029) | [PDF](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13029/epdf) | 10.1111/tpj.13029 | [cited 8](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727081806497409997&as_sdt=5)
+> [Abstract](http://doi.wiley.com/10.1111/tpj.13029) | [PDF](http://onlinelibrary.wiley.com/doi/10.1111/tpj.13029/epdf) | 10.1111/tpj.13029 | [cited 12](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727081806497409997&as_sdt=5)
 
 D. Sosso, D. Luo, Q. Li, J. Sasse, __J. Yang__, G. Gendrot, M. Suzuki, K. E. Koch, D. R. McCarty, P. S. Chourey, P. M. Rogowsky, J. Ross-Ibarra, B. Yang, and W. B. Frommer, __Seed filling in domesticated maize and rice depends on SWEET-mediated hexose transport__, *Nat. Genet., vol. 47, no. 12, pp. 1489–1493, 2015.*  
-> [Abstract](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html) | [PDF](http://www.nature.com/ng/journal/v47/n12/pdf/ng.3422.pdf) | 10.1038/ng.3422 | [cited 9](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
+> [Abstract](http://www.nature.com/ng/journal/v47/n12/full/ng.3422.html) | [PDF](http://www.nature.com/ng/journal/v47/n12/pdf/ng.3422.pdf) | 10.1038/ng.3422 | [cited 20](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14940779386657346302&as_sdt=5)
 
 S. Leiboff, X. Li, H.-C. Hu, N. Todt, __J. Yang__, X. Li, X. Yu, G. J. Muehlbauer, M. C. P. Timmermans, J. Yu, P. S. Schnable, and M. J. Scanlon, __Genetic control of morphometric diversity in the maize shoot apical meristem__, *Nat. Commun., vol. 6, p. 8974, 2015.*  
-> [Abstract](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html) | [PDF](http://www.nature.com/ncomms/2015/151120/ncomms9974/pdf/ncomms9974.pdf) | 10.1038/ncomms9974 | [cited 5](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15673008105270802385&as_sdt=5)
+> [Abstract](http://www.nature.com/ncomms/2015/151120/ncomms9974/full/ncomms9974.html) | [PDF](http://www.nature.com/ncomms/2015/151120/ncomms9974/pdf/ncomms9974.pdf) | 10.1038/ncomms9974 | [cited 8](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6986405476844302539&as_sdt=5)
 
 ------------------------------
 
 ### 2014 and Before 
 
 S. Liu, K. Ying, C.-T. Yeh, __J. Yang__, R. Swanson-Wagner, W. Wu, T. Richmond, D. J. Gerhardt, J. Lai, N. Springer, D. Nettleton, J. A. Jeddeloh, and P. S. Schnable, __Changes in genome content generated via segregation of non-allelic homolog__, *Plant J., vol. 72, no. 3, pp. 390–9, Nov. 2012.*  
-> [Abstract](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2012.05087.x/abstract) | [PDF](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2012.05087.x/epdf) | 10.1111/j.1365-313X.2012.05087.x | [cited 9](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12628450597487851072&as_sdt=5)
+> [Abstract](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2012.05087.x/abstract) | [PDF](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-313X.2012.05087.x/epdf) | 10.1111/j.1365-313X.2012.05087.x | [cited 10](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12628450597487851072&as_sdt=5)
 
 
 L. Koesterke, D. Stanzione, M. Vaughn, S. M. Welch, W. Kusnierczyk, __J. Yang__, C.-T. Yeh, D. Nettleton, and P. S. Schnable, __An Efficient and Scalable Implementation of SNP-Pair Interaction Testing for Genetic Association Studies__, *2011 IEEE Int. Symp. Parallel Distrib. Process. Work. Phd Forum, pp. 523–530, May 2011.*  
@@ -73,7 +62,3 @@ P. S. Schnable, __J. Yang__, R. A. Swanson-Wagner, D. Nettleton, __QTL regulatin
 
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> f367e1b7cb4f6617fe7fbb9349a1980861df9406
