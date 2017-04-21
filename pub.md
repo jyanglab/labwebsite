@@ -7,6 +7,19 @@ permalink: /pub/
 
 
 
+{% highlight text %}
+## Warning: package 'scholar' was built under R version 3.2.2
+{% endhighlight %}
+
+
+
+{% highlight text %}
+## [1] "{\\small H-Index 5 (56 citations as of Fri Apr 21 10:52:10 2017)}"
+{% endhighlight %}
+
+
+
+
 
 Koesterke, L, D. Stanzione, M. Vaughn, et al. (2011). “An efficient and
 scalable implementation of SNP-pair interaction testing for genetic
@@ -38,11 +51,4 @@ You can find the source code for the Jekyll new theme at: [github.com/jglovier/j
 
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
-```{}
-library(methods)
-library(scholar)
-bob<-get_profile("5SzRq1oAAAAJ")
-paste("{\\small H-Index ", bob$h_index, " (", bob$total_cites, " citations as of ", date(), ")}",sep="")
-bob<-get_publications("5SzRq1oAAAAJ")
-write.table(file="./tempcites.txt",data.frame(bob$cid,bob$cites),row.names=F,quote=F,col.names=F)
-```
+
